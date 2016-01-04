@@ -1,4 +1,4 @@
-# IP Messaging Quickstart for C# (ASP.NET MVC)
+# IP Messaging Quickstart for C# on a Mac (ASP.NET MVC)
 
 This application should give you a ready-made starting point for writing your
 own messaging apps with Twilio IP Messaging. Before we begin, we need to collect
@@ -24,6 +24,8 @@ After downloading the repo make sure you have all the environment variables prop
 You should now be ready to rock! On your terminal run `dnx web` and point your browser to http://localhost:5000, 
 and you should land on the home page of our basic chat application. Open it up in a few browser
 tabs and start chatting with yourself!
+
+Due to the dependencies used, the application will only run on DNX 451 and not on DNXCORE 5
 
 ![screenshot of chat app](https://s3.amazonaws.com/howtodocs/quickstart/ipm-browser-quickstart.png)
 

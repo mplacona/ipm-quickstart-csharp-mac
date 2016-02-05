@@ -11,6 +11,8 @@ Account SID | Your primary Twilio account identifier - find this [in the console
 API Key | Used to authenticate - [generate one here](https://www.twilio.com/user/account/ip-messaging/dev-tools/api-keys).
 API Secret | Used to authenticate - [just like the above, you'll get one here](https://www.twilio.com/user/account/ip-messaging/dev-tools/api-keys).
 
+Read more about adding environment variables on a Mac [here](http://osxdaily.com/2015/07/28/set-enviornment-variables-mac-os-x/).
+
 ## A Note on API Keys
 
 When you generate an API key pair at the URLs above, your API Secret will only
